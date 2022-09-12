@@ -12,11 +12,11 @@
 - [ts-pattern](https://github.com/gvergnaud/ts-pattern) The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [typechain](https://github.com/dethcrypto/TypeChain) TypeScript bindings for Ethereum smart contracts.
 - [pothos](https://github.com/hayes/pothos) Pothos GraphQL is library for creating GraphQL schemas in typescript using a strongly typed code first approach.
+- [trpc](https://trpc.io) Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
 
 ## Author
 
