@@ -16,3 +16,16 @@
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+
+## Author
+
+👤 **Dung Huynh**
+
+- Website: https://productsway.com/
+- Twitter: [@jellydn](https://twitter.com/jellydn)
+- Github: [@jellydn](https://github.com/jellydn)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
