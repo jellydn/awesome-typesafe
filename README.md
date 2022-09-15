@@ -14,6 +14,7 @@
 - [pothos](https://github.com/hayes/pothos) Pothos GraphQL is library for creating GraphQL schemas in typescript using a strongly typed code first approach.
 - [tRPC](https://github.com/trpc/trpc) Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [zod](https://github.com/colinhacks/zod) TypeScript-first schema validation with static type inference.
+- [abitype](https://github.com/wagmi-dev/abitype) Strict TypeScript types for Ethereum ABIs.
 
 ## Contribute
 
