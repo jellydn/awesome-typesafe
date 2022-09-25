@@ -12,6 +12,7 @@
 - [ts-pattern](https://github.com/gvergnaud/ts-pattern) The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [typechain](https://github.com/dethcrypto/TypeChain) TypeScript bindings for Ethereum smart contracts.
 - [pothos](https://github.com/hayes/pothos) Pothos GraphQL is library for creating GraphQL schemas in typescript using a strongly typed code first approach.
+- [gqty](https://github.com/gqty-dev/gqty) a GraphQL client built for rapid iteration.
 - [tRPC](https://github.com/trpc/trpc) Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [zod](https://github.com/colinhacks/zod) TypeScript-first schema validation with static type inference.
 - [abitype](https://github.com/wagmi-dev/abitype) Strict TypeScript types for Ethereum ABIs.
