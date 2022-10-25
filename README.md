@@ -18,6 +18,7 @@
 - [abitype](https://github.com/wagmi-dev/abitype) Strict TypeScript types for Ethereum ABIs.
 - [type-fest](https://github.com/sindresorhus/type-fest) A collection of essential TypeScript types.
 - [safeql](https://github.com/ts-safeql/safeql) Validate and auto-generate TypeScript types from raw SQL queries in PostgreSQL.
+- [phero](https://github.com/phero-hq/phero) Full-stack type-safety with pure TypeScript.
 
 ## Contribute
 
