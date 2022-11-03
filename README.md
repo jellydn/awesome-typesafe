@@ -20,6 +20,7 @@
 - [safeql](https://github.com/ts-safeql/safeql) Validate and auto-generate TypeScript types from raw SQL queries in PostgreSQL.
 - [phero](https://github.com/phero-hq/phero) Full-stack type-safety with pure TypeScript.
 - [slonik](https://github.com/gajus/slonik) A Node.js PostgreSQL client with runtime and build time type safety, and composable SQL.
+- [domain-functions](https://github.com/SeasonedSoftware/domain-functions) Decouple your business logic from your framework. With first-class type inference from end to end. 
 
 ## Contribute
 
