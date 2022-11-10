@@ -23,6 +23,7 @@
 - [domain-functions](https://github.com/SeasonedSoftware/domain-functions) Decouple your business logic from your framework. With first-class type inference from end to end. 
 - [ts-rest](https://github.com/ts-rest/ts-rest) RPC-like client, contract, and server implementation for a pure REST API
 - [fp-ts](https://github.com/gcanti/fp-ts) fp-ts is a library for typed functional programming in TypeScript.
+- [chicane](https://github.com/swan-io/chicane) A simple and safe router for React and TypeScript.
 
 ## Contribute
 
