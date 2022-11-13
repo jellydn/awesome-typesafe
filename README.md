@@ -39,4 +39,6 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## Show your support
 
+[![Stargazers repo roster for @jellydn/awesome-typesafe](https://reporoster.com/stars/jellydn/awesome-typesafe)](https://github.com/jellydn/awesome-typesafe/stargazers)
+
 Give a ⭐️ if this project helped you!
