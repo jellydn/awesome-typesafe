@@ -1,6 +1,6 @@
 # Awesome Typesafe [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> This list is a collection of the best Typescript typesafe modules and resources.
+> A curated list of awesome 🔥 TypeScript Typesafe 🔥
 
 ## Contents
 
@@ -24,6 +24,7 @@
 - [ts-rest](https://github.com/ts-rest/ts-rest) RPC-like client, contract, and server implementation for a pure REST API
 - [fp-ts](https://github.com/gcanti/fp-ts) fp-ts is a library for typed functional programming in TypeScript.
 - [chicane](https://github.com/swan-io/chicane) A simple and safe router for React and TypeScript.
+- [TanStack Router BETA](https://tanstack.com/router/v1) A fully typesafe router with first-class search-param APIs and built-in caching, built for JS/TS, React, Preact, Solid, Vue and Svelte
 
 ## Contribute
 
