@@ -24,7 +24,7 @@
 - [ts-rest](https://github.com/ts-rest/ts-rest) RPC-like client, contract, and server implementation for a pure REST API
 - [fp-ts](https://github.com/gcanti/fp-ts) fp-ts is a library for typed functional programming in TypeScript.
 - [chicane](https://github.com/swan-io/chicane) A simple and safe router for React and TypeScript.
-- [TanStack Router BETA](https://tanstack.com/router/v1) A fully typesafe router with first-class search-param APIs and built-in caching, built for JS/TS, React, Preact, Solid, Vue and Svelte
+- [TanStack/router](https://github.com/tanstack/router) 🤖 Type-safe router w/ built-in caching & URL state management for JS/TS, React, Preact, Solid, Vue, Svelte and Angular
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) Quickest way to start a new web app with full stack typesafety
 
 ## Contribute
