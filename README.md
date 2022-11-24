@@ -28,6 +28,7 @@
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) Quickest way to start a new web app with full stack typesafety
 - [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt) 👷 TypeScript's largest type utility library
 - [t3-oss/create-t3-turbo](https://github.com/t3-oss/create-t3-turbo) Clean and simple starter repo using the T3 Stack along with Expo React Native
+- [tw-classed](https://github.com/sannajammeh/tw-classed) Make your Tailwind components re-usable
 
 ## Contribute
 
