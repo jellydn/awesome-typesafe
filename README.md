@@ -27,6 +27,7 @@
 - [TanStack/router](https://github.com/tanstack/router) 🤖 Type-safe router w/ built-in caching & URL state management for JS/TS, React, Preact, Solid, Vue, Svelte and Angular
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) Quickest way to start a new web app with full stack typesafety
 - [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt) 👷 TypeScript's largest type utility library
+- [t3-oss/create-t3-turbo](https://github.com/t3-oss/create-t3-turbo) Clean and simple starter repo using the T3 Stack along with Expo React Native
 
 ## Contribute
 
