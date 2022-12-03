@@ -30,6 +30,7 @@
 - [t3-oss/create-t3-turbo](https://github.com/t3-oss/create-t3-turbo) Clean and simple starter repo using the T3 Stack along with Expo React Native
 - [tw-classed](https://github.com/sannajammeh/tw-classed) Make your Tailwind components re-usable
 - [KATT/envsafe](https://github.com/KATT/envsafe) 🔒 Makes sure you don't accidentally deploy apps with missing or invalid environment variables
+- [vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) Zero-runtime Stylesheets-in-TypeScript
 
 ## Contribute
 
