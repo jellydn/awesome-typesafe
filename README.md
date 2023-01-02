@@ -32,7 +32,7 @@
 - [KATT/envsafe](https://github.com/KATT/envsafe) 🔒 Makes sure you don't accidentally deploy apps with missing or invalid environment variables
 - [vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) Zero-runtime Stylesheets-in-TypeScript
 - [iway1/react-ts-form](https://github.com/iway1/react-ts-form) Build maintainable, typesafe forms faster 🏃💨
-
+- [BetterTyped/hyper-fetch](https://github.com/BetterTyped/hyper-fetch) Hyper Fetch is a data-exchange framework. What makes it unique is the typesafe design and the ease of use
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
