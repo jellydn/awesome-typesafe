@@ -31,6 +31,7 @@
 - [tw-classed](https://github.com/sannajammeh/tw-classed) Make your Tailwind components re-usable
 - [KATT/envsafe](https://github.com/KATT/envsafe) 🔒 Makes sure you don't accidentally deploy apps with missing or invalid environment variables
 - [vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) Zero-runtime Stylesheets-in-TypeScript
+- [iway1/react-ts-form](https://github.com/iway1/react-ts-form) Build maintainable, typesafe forms faster 🏃💨
 
 ## Contribute
 
