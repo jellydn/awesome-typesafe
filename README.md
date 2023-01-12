@@ -34,6 +34,7 @@
 - [iway1/react-ts-form](https://github.com/iway1/react-ts-form) Build maintainable, typesafe forms faster 🏃💨
 - [BetterTyped/hyper-fetch](https://github.com/BetterTyped/hyper-fetch) Hyper Fetch is a data-exchange framework. What makes it unique is the typesafe design and the ease of use
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) Type-Safe Errors for JS & TypeScript
+- [ecyrbe/zodios](https://github.com/ecyrbe/zodios) Typescript http client and server with zod validation
 
 ## Contribute
 
