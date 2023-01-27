@@ -18,6 +18,7 @@
 - [abitype](https://github.com/wagmi-dev/abitype) Strict TypeScript types for Ethereum ABIs.
 - [type-fest](https://github.com/sindresorhus/type-fest) A collection of essential TypeScript types.
 - [safeql](https://github.com/ts-safeql/safeql) Validate and auto-generate TypeScript types from raw SQL queries in PostgreSQL.
+- [koskimas/kysely](https://github.com/koskimas/kysely) A type-safe typescript SQL query builder
 - [phero](https://github.com/phero-hq/phero) Full-stack type-safety with pure TypeScript.
 - [slonik](https://github.com/gajus/slonik) A Node.js PostgreSQL client with runtime and build time type safety, and composable SQL.
 - [domain-functions](https://github.com/SeasonedSoftware/domain-functions) Decouple your business logic from your framework. With first-class type inference from end to end. 
