@@ -2,6 +2,8 @@
 
 > A curated list of awesome 🔥 TypeScript Typesafe 🔥
 
+[![IT Man - Talk #31 - Awesome TypeScript Typesafe [Vietnamese]](https://i.ytimg.com/vi/nDdAmZQTjSQ/hqdefault.jpg)](https://www.youtube.com/watch?v=nDdAmZQTjSQ)
+
 ## Contents
 
 - [Libraries](#libraries)
