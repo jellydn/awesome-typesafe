@@ -40,6 +40,7 @@
 - [ecyrbe/zodios](https://github.com/ecyrbe/zodios) Typescript http client and server with zod validation
 - [Mokshit06/typewind](https://github.com/Mokshit06/typewind) The safety of Typescript with the magic of Tailwind
 - [g-makarov/dot-path-value](https://github.com/g-makarov/dot-path-value) Safely get deep nested properties using dot notation
+- [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 
 ## Contribute
 
