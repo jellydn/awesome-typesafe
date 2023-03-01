@@ -42,7 +42,7 @@
 - [g-makarov/dot-path-value](https://github.com/g-makarov/dot-path-value) Safely get deep nested properties using dot notation
 - [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [bridge-codes/bridge-mongo](https://github.com/bridge-codes/bridge-mongo) A fully typed mongoose ORM
-
+- [arktypeio/arktype](https://github.com/arktypeio/arktype) The first isomorphic type system for TS/JS
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
