@@ -43,6 +43,7 @@
 - [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [bridge-codes/bridge-mongo](https://github.com/bridge-codes/bridge-mongo) A fully typed mongoose ORM
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) The first isomorphic type system for TS/JS
+- [total-typescript/untypeable](https://github.com/total-typescript/untypeable) Get type-safe access to any API, with a zero-bundle size option
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
