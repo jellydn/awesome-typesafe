@@ -44,6 +44,7 @@
 - [bridge-codes/bridge-mongo](https://github.com/bridge-codes/bridge-mongo) A fully typed mongoose ORM
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) The first isomorphic type system for TS/JS
 - [total-typescript/untypeable](https://github.com/total-typescript/untypeable) Get type-safe access to any API, with a zero-bundle size option
+- [gvergnaud/hotscript](https://github.com/gvergnaud/hotscript) A library of composable functions for the type-level! Transform your TypeScript types in any way you want using functions you already know
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
