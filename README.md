@@ -46,7 +46,7 @@
 - [total-typescript/untypeable](https://github.com/total-typescript/untypeable) Get type-safe access to any API, with a zero-bundle size option
 - [gvergnaud/hotscript](https://github.com/gvergnaud/hotscript) A library of composable functions for the type-level! Transform your TypeScript types in any way you want using functions you already know
 - [jamesopstad/typesafe-router](https://github.com/jamesopstad/typesafe-router) A tiny wrapper library for React Router that dramatically improves type safety
-
+- [stalniy/casl](https://github.com/stalniy/casl) CASL is an isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
