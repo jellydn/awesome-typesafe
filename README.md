@@ -50,6 +50,7 @@
 - [codemix/ts-sql](https://github.com/codemix/ts-sql) A SQL database implemented purely in TypeScript type annotations
 - [ardatan/feTS](https://github.com/ardatan/feTS) TypeScript HTTP Framework focusing on e2e type-safety, easy setup, performance & great developer experience
 - [betwixt-labs/tempo](https://github.com/betwixt-labs/tempo) 🥁 Don't miss a beat. Low latency, cross-platform, end-to-end typesafe APIs
+- [stepci/garph](https://github.com/stepci/garph) Fullstack GraphQL Framework for TypeScript
 
 ## Contribute
 
