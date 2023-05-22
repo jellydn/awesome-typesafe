@@ -51,6 +51,7 @@
 - [ardatan/feTS](https://github.com/ardatan/feTS) TypeScript HTTP Framework focusing on e2e type-safety, easy setup, performance & great developer experience
 - [betwixt-labs/tempo](https://github.com/betwixt-labs/tempo) 🥁 Don't miss a beat. Low latency, cross-platform, end-to-end typesafe APIs
 - [stepci/garph](https://github.com/stepci/garph) Fullstack GraphQL Framework for TypeScript
+- [nextui-org/tailwind-variants](https://github.com/nextui-org/tailwind-variants) 🦄 Tailwindcss first-class variant API
 
 ## Contribute
 
