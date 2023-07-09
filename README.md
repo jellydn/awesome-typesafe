@@ -53,7 +53,7 @@
 - [stepci/garph](https://github.com/stepci/garph) Fullstack GraphQL Framework for TypeScript
 - [nextui-org/tailwind-variants](https://github.com/nextui-org/tailwind-variants) 🦄 Tailwindcss first-class variant API
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️
-
+- [ronami/meta-typing](https://github.com/ronami/meta-typing) 📚 Functions and algorithms implemented purely with TypeScript's type system
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
