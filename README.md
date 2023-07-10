@@ -86,3 +86,4 @@ _A curated list of awesome TypeScript Typesafe_
 - [KATT/envsafe](https://github.com/KATT/envsafe) - Makes sure you don't accidentally deploy apps with missing or invalid environment variables.
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JavaScript & TypeScript.
 - [ecyrbe/zodios](https://github.com/ecyrbe/zodios) - A complete typesafe wrapper around Zod for a boilerplate-free, typesafe, and DRY experience.
+- [g-plane/typed-query-selector](https://github.com/g-plane/typed-query-selector) :label: Better typed `querySelector` and `querySelectorAll`.
