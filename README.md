@@ -31,6 +31,7 @@ _A curated list of awesome TypeScript Typesafe_
 - [koskimas/kysely](https://github.com/koskimas/kysely) - A type-safe TypeScript SQL query builder.
 - [gajus/slonik](https://github.com/gajus/slonik) - A Node.js PostgreSQL client with runtime and build-time type safety, and composable SQL.
 - [bridge-codes/bridge-mongo](https://github.com/bridge-codes/bridge-mongo) - A fully typed mongoose ORM.
+- [kristiandupont/kanel](https://github.com/kristiandupont/kanel) - Generate Typescript types from Postgres
 
 <a name="apis"/>
 
