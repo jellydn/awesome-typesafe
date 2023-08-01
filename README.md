@@ -90,3 +90,4 @@ _A curated list of awesome TypeScript Typesafe_
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JavaScript & TypeScript.
 - [ecyrbe/zodios](https://github.com/ecyrbe/zodios) - A complete typesafe wrapper around Zod for a boilerplate-free, typesafe, and DRY experience.
 - [g-plane/typed-query-selector](https://github.com/g-plane/typed-query-selector) - Better typed `querySelector` and `querySelectorAll`.
+- [tatethurston/nextjs-routes](https://github.com/tatethurston/nextjs-routes) - Type safe routing for Next.js.
