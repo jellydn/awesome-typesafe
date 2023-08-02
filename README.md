@@ -32,6 +32,7 @@ _A curated list of awesome TypeScript Typesafe_
 - [gajus/slonik](https://github.com/gajus/slonik) - A Node.js PostgreSQL client with runtime and build-time type safety, and composable SQL.
 - [bridge-codes/bridge-mongo](https://github.com/bridge-codes/bridge-mongo) - A fully typed mongoose ORM.
 - [kristiandupont/kanel](https://github.com/kristiandupont/kanel) - Generate Typescript types from Postgres
+- [samchon/safe-typeorm](https://github.com/samchon/safe-typeorm) - TypeORM helper library enhancing safety in the compilation level
 
 <a name="apis"/>
 
@@ -83,6 +84,7 @@ _A curated list of awesome TypeScript Typesafe_
 
 ### Others
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
+- [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy Runtime validator.
 - [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data.
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types.
 - [SeasonedSoftware/domain-functions](https://github.com/SeasonedSoftware/domain-functions) - Decouple your business logic from your framework with first-class type inference from end to end.
