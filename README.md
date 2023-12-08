@@ -59,6 +59,7 @@ _A curated list of awesome TypeScript Typesafe_
 - [jamesopstad/typesafe-router](https://github.com/jamesopstad/typesafe-router) - A tiny wrapper library for React Router that dramatically improves type safety.
 - [iway1/react-ts-form](https://github.com/iway1/react-ts-form) - Build maintainable, type-safe forms faster.
 - [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) - A fully type-safe and lightweight internationalization library for all your TypeScript and JavaScript projects.
+- [StellateHQ/fuse.js](https://github.com/StellateHQ/fuse.js) - Fuse.js: The opinionated framework for creating typesafe data layers
 
 <a name="styles"/>
 
