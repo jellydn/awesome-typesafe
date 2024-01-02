@@ -93,6 +93,7 @@ _A curated list of awesome TypeScript Typesafe_
 - [SeasonedSoftware/domain-functions](https://github.com/SeasonedSoftware/domain-functions) - Decouple your business logic from your framework with first-class type inference from end to end.
 - [KATT/envsafe](https://github.com/KATT/envsafe) - Makes sure you don't accidentally deploy apps with missing or invalid environment variables.
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JavaScript & TypeScript.
+- [true-myth/true-myth](https://github.com/true-myth/true-myth) - A library for safer and smarter error- and "nothing"-handling in TypeScript.
 - [ecyrbe/zodios](https://github.com/ecyrbe/zodios) - A complete typesafe wrapper around Zod for a boilerplate-free, typesafe, and DRY experience.
 - [g-plane/typed-query-selector](https://github.com/g-plane/typed-query-selector) - Better typed `querySelector` and `querySelectorAll`.
 - [tatethurston/nextjs-routes](https://github.com/tatethurston/nextjs-routes) - Type safe routing for Next.js.
