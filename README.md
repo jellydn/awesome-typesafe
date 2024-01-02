@@ -69,6 +69,7 @@ _A curated list of awesome TypeScript Typesafe_
 - [nextui-org/tailwind-variants](https://github.com/nextui-org/tailwind-variants) - Tailwindcss first-class variant API.
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) - Universal, Type-Safe, CSS-in-JS Framework for Product Teams.
 - [gregberge/twc](https://github.com/gregberge/twc) - Create reusable React + Tailwind components in one line.
+- [tokenami/tokenami](https://github.com/tokenami/tokenami) - Atomic CSS in the style attribute. Type-safe static styles with theming, responsive variant support, and no bundler integration.
 
 <a name="blockchain"/>
 
