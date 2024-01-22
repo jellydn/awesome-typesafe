@@ -100,3 +100,4 @@ _A curated list of awesome TypeScript Typesafe_
 - [ecyrbe/zodios](https://github.com/ecyrbe/zodios) - A complete typesafe wrapper around Zod for a boilerplate-free, typesafe, and DRY experience.
 - [g-plane/typed-query-selector](https://github.com/g-plane/typed-query-selector) - Better typed `querySelector` and `querySelectorAll`.
 - [tatethurston/nextjs-routes](https://github.com/tatethurston/nextjs-routes) - Type safe routing for Next.js.
+- [jetpack-io/typeid-js](https://github.com/jetpack-io/typeid-js) - TypeScript implementation of TypeIDs: type-safe, K-sortable, and globally unique identifiers inspired by Stripe IDs.
