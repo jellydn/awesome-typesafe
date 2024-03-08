@@ -51,6 +51,7 @@ _A curated list of awesome TypeScript Typesafe_
 - [hayes/pothos](https://github.com/hayes/pothos) - Create GraphQL schemas in TypeScript using a strongly typed code-first approach.
 - [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - A GraphQL client built for rapid iteration.
 - [0no-co/gql.tada](https://github.com/0no-co/gql.tada) - Magical GraphQL query engine for TypeScript.
+- [captbaritone/grats](https://github.com/captbaritone/grats) - Implementation-First GraphQL for TypeScript.
 
 <a name="web"/>
 
