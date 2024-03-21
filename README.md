@@ -85,6 +85,7 @@ _A curated list of awesome TypeScript Typesafe_
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - A library for typed functional programming in TypeScript.
 - [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt) - TypeScript's largest type utility library.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - A fully-fledged functional effect system for TypeScript with a rich standard library.
+- [TS-Pattern](https://github.com/gvergnaud/ts-pattern) - The exhaustive Pattern Matching library for TypeScript with smart type inference.
 
 <a name="others"/>
 
