@@ -8,6 +8,15 @@
   "commitConvention": "angular",
   "contributors": [
     {
+      "login": "jellydn",
+      "name": "Dung Duc Huynh (Kaka)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/870029?v=4",
+      "profile": "https://productsway.com/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
       "login": "larsw",
       "name": "larsw",
       "avatar_url": "https://avatars.githubusercontent.com/u/63235?v=4",
