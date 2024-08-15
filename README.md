@@ -67,6 +67,7 @@ _A curated list of awesome TypeScript Typesafe_
 - [IdoPesok/zsa](https://github.com/IdoPesok/zsa) - Typesafe Server Actions for Next.js.
 - [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) - A fully type-safe and lightweight internationalization library for all your TypeScript and JavaScript projects.
 - [StellateHQ/fuse.js](https://github.com/StellateHQ/fuse.js) - Fuse.js: The opinionated framework for creating typesafe data layers
+- [desko27/react-call](https://github.com/desko27/react-call) - Call your React components
 
 <a name="styles"/>
 
