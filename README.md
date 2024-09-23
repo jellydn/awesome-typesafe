@@ -94,6 +94,7 @@ _A curated list of awesome TypeScript Typesafe_
 - [gvergnaud/TS-Pattern](https://github.com/gvergnaud/ts-pattern) - The exhaustive Pattern Matching library for TypeScript with smart type inference.
 - [swan-io/boxed](https://github.com/swan-io/boxed?) - Essential building-blocks for functional & safe TypeScript code.
 - [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
+- [gustavoguichard/string-ts](https://github.com/gustavoguichard/string-ts) - Strongly typed string functions.
 
 <a name="others"/>
 
