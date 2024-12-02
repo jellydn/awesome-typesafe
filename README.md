@@ -38,6 +38,7 @@ _A curated list of awesome TypeScript Typesafe_
 - [samchon/safe-typeorm](https://github.com/samchon/safe-typeorm) - TypeORM helper library enhancing safety in the compilation level.
 - [aerotoad/neboa](https://github.com/aerotoad/neboa) - Type-safe NoSQL with Node & SQLite.
 - [wsporto/typesql](https://github.com/wsporto/typesql) - Generate Typescript API from raw MySQL queries. Supports MySQL, Sqlite and LibSQL (Turso).
+- [litdb/litdb](https://github.com/litdb/litdb) - Lightweight RDBMS agnostic TypeScript/JS abstraction for SQLite, PostgreSQL and MySQL.
 
 <a name="apis"/>
 
