@@ -64,6 +64,7 @@ _A curated list of awesome TypeScript Typesafe_
 ### Web
 - [swan-io/chicane](https://github.com/swan-io/chicane) - A simple and safe router for React and TypeScript.
 - [TanStack/router](https://github.com/tanstack/router) - Type-safe router with built-in caching & URL state management for various frameworks.
+- [TanStack/form](https://github.com/TanStack/form) - 🤖 Headless, performant, and type-safe form state management for TS/JS, React, Vue, Angular, Solid, and Lit.
 - [jamesopstad/typesafe-router](https://github.com/jamesopstad/typesafe-router) - A tiny wrapper library for React Router that dramatically improves type safety.
 - [iway1/react-ts-form](https://github.com/iway1/react-ts-form) - Build maintainable, type-safe forms faster.
 - [IdoPesok/zsa](https://github.com/IdoPesok/zsa) - Typesafe Server Actions for Next.js.
