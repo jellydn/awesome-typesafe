@@ -73,6 +73,7 @@ _A curated list of awesome TypeScript Typesafe_
 - [StellateHQ/fuse.js](https://github.com/StellateHQ/fuse.js) - Fuse.js: The opinionated framework for creating typesafe data layers
 - [desko27/react-call](https://github.com/desko27/react-call) - Call your React components
 - [47ng/nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.
+- [nivandres/intl-t](https://github.com/nivandres/intl-t) - A Object-Typed Node-Based i18n Translation Library
 
 <a name="styles"/>
 
