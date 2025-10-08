@@ -51,6 +51,7 @@ _A curated list of awesome TypeScript Typesafe_
 - [BetterTyped/hyper-fetch](https://github.com/BetterTyped/hyper-fetch) - Hyper Fetch is a data-exchange framework focusing on type-safe design and ease of use.
 - [type-predicate-generator](https://github.com/peter-leonov/type-predicate-generator) - 100% type safe predicates for JSON APIs with blazing performance
 - [unnoq/orpc](https://github.com/unnoq/orpc) - Typesafe APIs Made Simple, with first-class OpenAPI support.
+- [cloudflare/capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system.
 
 <a name="graphql"/>
 
