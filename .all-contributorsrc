@@ -42,6 +42,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "zinyando",
+      "name": "Lennex Zinyando",
+      "avatar_url": "https://avatars.githubusercontent.com/u/806774?v=4",
+      "profile": "https://www.zinyando.com/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
