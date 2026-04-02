@@ -51,6 +51,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "ivancernja",
+      "name": "Ivan Cernja",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14149737?v=4",
+      "profile": "https://ivan.codes",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
