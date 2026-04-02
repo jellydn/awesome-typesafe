@@ -1,6 +1,6 @@
 # **Awesome Typesafe**
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 _A curated list of awesome TypeScript Typesafe_
@@ -147,6 +147,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="http://leonov.net"><img src="https://avatars.githubusercontent.com/u/57961?v=4?s=100" width="100px;" alt="Peter Leonov"/><br /><sub><b>Peter Leonov</b></sub></a><br /><a href="https://github.com/jellydn/awesome-typesafe/commits?author=peter-leonov" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://unnoq.com"><img src="https://avatars.githubusercontent.com/u/64189902?v=4?s=100" width="100px;" alt="unnoq"/><br /><sub><b>unnoq</b></sub></a><br /><a href="https://github.com/jellydn/awesome-typesafe/commits?author=unnoq" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.zinyando.com/"><img src="https://avatars.githubusercontent.com/u/806774?v=4?s=100" width="100px;" alt="Lennex Zinyando"/><br /><sub><b>Lennex Zinyando</b></sub></a><br /><a href="https://github.com/jellydn/awesome-typesafe/commits?author=zinyando" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://ivan.codes"><img src="https://avatars.githubusercontent.com/u/14149737?v=4?s=100" width="100px;" alt="Ivan Cernja"/><br /><sub><b>Ivan Cernja</b></sub></a><br /><a href="https://github.com/jellydn/awesome-typesafe/commits?author=ivancernja" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
