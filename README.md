@@ -46,6 +46,7 @@ _A curated list of awesome TypeScript Typesafe_
 ### APIs
 - [trpc/trpc](https://github.com/trpc/trpc) - Create end-to-end typesafe APIs with ease.
 - [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - RPC-like client, contract, and server implementation for a pure REST API.
+- [orval-labs/orval](https://github.com/orval-labs/orval) - Generate type-safe TypeScript clients, hooks, and mocks from OpenAPI/Swagger specs.
 - [ardatan/feTS](https://github.com/ardatan/feTS) - TypeScript HTTP Framework focusing on e2e type-safety, easy setup, performance & great developer experience.
 - [betwixt-labs/tempo](https://github.com/betwixt-labs/tempo) - Cross-platform, end-to-end typesafe APIs with low latency.
 - [stepci/garph](https://github.com/stepci/garph) - Fullstack GraphQL Framework for TypeScript.
