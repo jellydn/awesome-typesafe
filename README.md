@@ -110,6 +110,8 @@ _A curated list of awesome TypeScript Typesafe_
 <a name="ai"/>
 
 ### AI
+- [withastro/flue](https://github.com/withastro/flue) - The sandbox agent framework from Astro.
+- [vercel/eve](https://github.com/vercel/eve) - The framework for building agents.
 - [Mastra](https://github.com/mastra-ai/mastra) - Mastra is an opinionated TypeScript framework that helps you build AI applications and features quickly.
 
 <a name="others"/>
