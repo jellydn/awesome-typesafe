@@ -120,6 +120,7 @@ _A curated list of awesome TypeScript Typesafe_
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
 - [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy Runtime validator.
 - [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data.
+- [tada5hi/validup](https://github.com/tada5hi/validup) - Composable, path-based validation, mount validators and nested containers onto object paths, with integrations for Zod, Standard Schema, validator.js, and Vue.
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types.
 - [SeasonedSoftware/domain-functions](https://github.com/SeasonedSoftware/domain-functions) - Decouple your business logic from your framework with first-class type inference from end to end.
 - [KATT/envsafe](https://github.com/KATT/envsafe) - Makes sure you don't accidentally deploy apps with missing or invalid environment variables.
