@@ -55,6 +55,7 @@ _A curated list of awesome TypeScript Typesafe_
 - [unnoq/orpc](https://github.com/unnoq/orpc) - Typesafe APIs Made Simple, with first-class OpenAPI support.
 - [cloudflare/capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system.
 - [encoredev/encore](https://github.com/encoredev/encore) - Type-safe backend framework with declarative infrastructure and automatic API client generation.
+- [har2sdk](https://har2sdk.vercel.app/) - Generate a typed TypeScript fetch SDK from a captured HAR (Chrome / Firefox network export) — semantic method naming, resource grouping, and auth detection. Skip the OpenAPI intermediate.
 
 <a name="graphql"/>
 
