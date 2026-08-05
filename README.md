@@ -127,6 +127,7 @@ _A curated list of awesome TypeScript Typesafe_
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JavaScript & TypeScript.
 - [venables/typed-route-handler](https://github.com/venables/typed-route-handler) - Type-safe API Route Handlers for Next.js.
 - [true-myth/true-myth](https://github.com/true-myth/true-myth) - A library for safer and smarter error- and "nothing"-handling in TypeScript.
+- [sapphire-cms/defectless](https://github.com/sapphire-cms/defectless) - Provides a "Promise with a typed error channel," enabling the creation of predictable, bulletproof TypeScript applications without the chaos of untyped exceptions.
 - [ecyrbe/zodios](https://github.com/ecyrbe/zodios) - A complete typesafe wrapper around Zod for a boilerplate-free, typesafe, and DRY experience.
 - [g-plane/typed-query-selector](https://github.com/g-plane/typed-query-selector) - Better typed `querySelector` and `querySelectorAll`.
 - [tatethurston/nextjs-routes](https://github.com/tatethurston/nextjs-routes) - Type safe routing for Next.js.
