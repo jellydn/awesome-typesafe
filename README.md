@@ -110,6 +110,7 @@ _A curated list of awesome TypeScript Typesafe_
 <a name="ai"/>
 
 ### AI
+- [juspay/neurolink](https://github.com/juspay/neurolink) - The pipe layer of an AI nervous system, connecting provider neurons to your application across three inference types — `generate`, `stream`, and a calibrated-judgment `decide`.
 - [withastro/flue](https://github.com/withastro/flue) - The sandbox agent framework from Astro.
 - [vercel/eve](https://github.com/vercel/eve) - The framework for building agents.
 - [Mastra](https://github.com/mastra-ai/mastra) - Mastra is an opinionated TypeScript framework that helps you build AI applications and features quickly.
