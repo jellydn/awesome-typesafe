@@ -88,6 +88,7 @@ _A curated list of awesome TypeScript Typesafe_
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) - Universal, Type-Safe, CSS-in-JS Framework for Product Teams.
 - [gregberge/twc](https://github.com/gregberge/twc) - Create reusable React + Tailwind components in one line.
 - [tokenami/tokenami](https://github.com/tokenami/tokenami) - Atomic CSS in the style attribute. Type-safe static styles with theming, responsive variant support, and no bundler integration.
+- [msabitov/effcss](https://github.com/msabitov/effcss) - Zero-dependency and framework-agnostic CSS-in-TS library with TypeScript contract-based selector autocompletion.
 
 <a name="blockchain"/>
 
