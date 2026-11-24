@@ -60,6 +60,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "prc5",
+      "name": "Maciej Pyrc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20928302?v=4",
+      "profile": "http://bettertyped.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
