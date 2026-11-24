@@ -124,6 +124,7 @@ _A curated list of awesome TypeScript Typesafe_
 - [SeasonedSoftware/domain-functions](https://github.com/SeasonedSoftware/domain-functions) - Decouple your business logic from your framework with first-class type inference from end to end.
 - [KATT/envsafe](https://github.com/KATT/envsafe) - Makes sure you don't accidentally deploy apps with missing or invalid environment variables.
 - [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - AI-safe .env files with schema-driven validation, secret handling, and leak scanning.
+- [yamcodes/arkenv](https://github.com/yamcodes/arkenv) - Typesafe environment variable validation with ArkType, Zod, Valibot, or any Standard Schema library.
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JavaScript & TypeScript.
 - [venables/typed-route-handler](https://github.com/venables/typed-route-handler) - Type-safe API Route Handlers for Next.js.
 - [true-myth/true-myth](https://github.com/true-myth/true-myth) - A library for safer and smarter error- and "nothing"-handling in TypeScript.
