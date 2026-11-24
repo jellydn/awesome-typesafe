@@ -106,6 +106,7 @@ _A curated list of awesome TypeScript Typesafe_
 - [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
 - [gustavoguichard/string-ts](https://github.com/gustavoguichard/string-ts) - Strongly typed string functions.
 - [codpro2005/ts-regexp](https://github.com/codpro2005/ts-regexp) - A strictly typed & minimal RegExp wrapper.
+- [LazyPromise](https://lazypromise.com/) - A tiny alternative to Effect's auto-propagating cancellation, type-safe errors, and dependency injection.
 
 <a name="ai"/>
 
