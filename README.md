@@ -135,6 +135,7 @@ _A curated list of awesome TypeScript Typesafe_
 - [edmundhung/conform](https://github.com/edmundhung/conform) - A type-safe form validation library utilizing web fundamentals to progressively enhance HTML Forms with full support for server frameworks like Remix and Next.js.
 - [nicojs/typed-inject](https://github.com/nicojs/typed-inject) - Type safe dependency injection for TypeScript.
 - [arcanis/clipanion](https://github.com/arcanis/clipanion) - Type-safe CLI library / framework with no runtime dependencies.
+- [shijistar/enum-plus](https://github.com/shijistar/enum-plus) - Type-safe drop-in replacement for native TypeScript `enum`, with metadata, UI binding, and i18n.
 
 ## Contributors ✨
 
